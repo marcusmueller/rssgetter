@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# this is GPL'ed code -- see LICENSE
 from lxml import etree, html
 import urllib2, urlparse, datetime
 
